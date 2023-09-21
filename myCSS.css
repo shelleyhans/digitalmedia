@@ -2,7 +2,8 @@
 /* This is a comment! Text here will be ignored by the browser. */
 body {
 	margin: 0 auto;
-}
+	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
+        background-color: #FFFFFF;}
 .homePage {
 	background: #000000;
 }
@@ -12,6 +13,7 @@ body {
 }
 .header {
 	background: #4A6361;
+	font: New Century Schoolbook, TeX Gyre Schola, serif;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
